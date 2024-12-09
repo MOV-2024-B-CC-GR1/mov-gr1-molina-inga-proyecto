@@ -25,4 +25,4 @@ Puedes ver los diseños en [Figma](https://www.figma.com/proto/IChnErw1x5pdk6BpB
 Consulta el archivo de [Diagrama Entidad-Relación (PDF)](Entregables/Diagrama%20Base%20de%20Datos_Allan_Molina_Wilson_Inga.pdf) para más información.
 
 #### 📝 Historias de Usuario
-Consulta el archivo de [Historias de Usuario (PDF)](Historias%20de%20Usuario_Allan_Molina_Wilson_Inga.pdf) para los detalles completos.
+Consulta el archivo de [Historias de Usuario (PDF)](Entregables/Historias%20de%20Usuario_Allan_Molina_Wilson_Inga.pdf) para los detalles completos.
